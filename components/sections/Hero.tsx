@@ -37,7 +37,7 @@ export default function Hero() {
             className="inline-flex items-center gap-2 mb-6 bg-white/80 backdrop-blur-sm border border-slate-200 rounded-full px-4 py-1.5 shadow-sm"
           >
             <Sparkles size={14} className="text-brand-royal" />
-            <span className="text-xs font-semibold text-slate-700">AI Solutions · Made in Jakarta</span>
+            <span className="text-xs font-semibold text-slate-700">AI Solutions · Made for Indonesian Businesses</span>
           </motion.div>
           <motion.h1
             initial={{ opacity: 0, y: 20 }}

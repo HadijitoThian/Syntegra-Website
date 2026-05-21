@@ -29,7 +29,7 @@ export default function WhoWeAre() {
           </div>
           <div className="absolute -bottom-4 -right-4 bg-white rounded-2xl shadow-xl px-5 py-3 hidden md:flex items-center gap-2">
             <div className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-            <span className="text-xs font-semibold text-brand-ink">Made in Jakarta 🇮🇩</span>
+            <span className="text-xs font-semibold text-brand-ink">Made for Indonesian Businesses 🇮🇩</span>
           </div>
         </div>
       </div>
