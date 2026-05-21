@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "insights": "Insights",
+    "contact": "Contact",
+    "cta": "Talk to Us"
+  },
+  "hero": {
+    "headlineStart": "AI That Builds ",
+    "headlineHighlight": "Your Business",
+    "headlineEnd": ".",
+    "sub": "Syntegra helps Indonesian SMEs and entrepreneurs grow with practical, affordable, ready-to-use AI tools — built in Jakarta for the local market.",
+    "ctaPrimary": "See Products",
+    "ctaSecondary": "Free Consultation"
+  },
+  "trustStrip": {
+    "tagline": "Built for Indonesian SMEs · Powered by Claude AI · Made in Jakarta 🇮🇩",
+    "stat1": "3+ live products",
+    "stat2": "Built on Anthropic Claude",
+    "stat3": "100% ready to use"
+  },
+  "products": {
+    "kicker": "Flagship Products",
+    "title": "Three Products. One Mission.",
+    "subtitle": "Tools already in production, ready to help your business today.",
+    "learnMore": "Learn More",
+    "visit": "Visit Product",
+    "socialBuilder": {
+      "name": "Syntegra Social Media Builder",
+      "tagline": "Consistent social content, without the headache.",
+      "desc": "Build landing pages and social media content that sells — AI-guided, ready to publish in minutes. Perfect for SMEs that want to look professional on Instagram, TikTok, and Shopee."
+    },
+    "pos": {
+      "name": "Syntegra POS",
+      "tagline": "Smart POS for shops, cafes, and restaurants.",
+      "desc": "Modern Point of Sale system with stock management, real-time sales reporting, and AI analytics. Works on phone, tablet, or laptop — no expensive hardware required."
+    },
+    "synthia": {
+      "name": "Synthia AI Assistant",
+      "tagline": "An AI assistant that understands your business.",
+      "desc": "AI-powered virtual secretary that schedules, reminds, replies to messages, and handles daily operations — 24/7, in Bahasa Indonesia."
+    }
+  },
+  "whoWeAre": {
+    "kicker": "About Us",
+    "title": "AI for everyone else — not just big corporations.",
+    "body": "Syntegra was built on one belief: AI technology should be usable by anyone running a business in Indonesia — warung owners, cafe operators, real estate agents, education consultants, small brand owners. We build tools that are practical, affordable, and immediately impactful. No jargon. No expensive subscriptions that go unused."
+  },
+  "whatWeSolve": {
+    "title": "What We Solve",
+    "items": [
+      { "pain": "Social content is inconsistent — exhausting to make daily", "solution": "Syntegra Social Media Builder automates ideas and design" },
+      { "pain": "Transactions still recorded manually, data gets lost", "solution": "Syntegra POS records everything automatically with instant reports" },
+      { "pain": "No staff to reply to chats or manage schedules", "solution": "Synthia becomes your 24/7 AI assistant — never on leave" },
+      { "pain": "Tried overseas tools but they're expensive and don't fit locally", "solution": "Every Syntegra product is built for the Indonesian market" }
+    ]
+  },
+  "howWeWork": {
+    "title": "How We Work",
+    "steps": [
+      { "title": "Understand Your Business", "desc": "We listen to the problem before pitching solutions." },
+      { "title": "Build the Solution", "desc": "Our engineering team crafts tools that fit your context." },
+      { "title": "Ship Fast", "desc": "Live in weeks, not quarters." },
+      { "title": "Iterate Together", "desc": "We keep refining once real users start using it." }
+    ]
+  },
+  "futurePipeline": {
+    "title": "What We're Building Next",
+    "subtitle": "Upcoming products in the pipeline.",
+    "soon": "Coming Soon"
+  },
+  "insightsPreview": {
+    "title": "Insights",
+    "subtitle": "Our thinking on AI, SMEs, and the future of Indonesian tech.",
+    "readMore": "Read",
+    "viewAll": "View All Insights"
+  },
+  "contactCta": {
+    "title": "Ready to bring AI to your business?",
+    "sub": "Let's talk. Initial consultation is free."
+  },
+  "footer": {
+    "tagline": "AI That Builds Your Business.",
+    "products": "Products",
+    "company": "Company",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "rights": "© 2026 Syntegra. Built with ❤️ in Jakarta."
+  },
+  "whatsapp": {
+    "tooltip": "Chat on WhatsApp"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "business": "Business Name",
+    "industry": "Industry",
+    "industryPlaceholder": "Choose industry",
+    "industries": {
+      "retail": "Retail",
+      "fnb": "F&B",
+      "education": "Education",
+      "services": "Services",
+      "ecommerce": "E-commerce",
+      "other": "Other"
+    },
+    "challenge": "Your biggest business challenge right now",
+    "challengePlaceholder": "Describe your situation (minimum 20 characters)…",
+    "products": "Which product caught your eye",
+    "productOptions": {
+      "social": "Syntegra Social Media Builder",
+      "pos": "Syntegra POS",
+      "synthia": "Synthia AI Assistant",
+      "unsure": "Not sure yet"
+    },
+    "submit": "Submit",
+    "submitting": "Submitting…",
+    "successTitle": "Thank you, {name}!",
+    "successBody": "Based on your needs, we think <strong>{product}</strong> is the best fit. Our team will reach out via WhatsApp within 24 hours.",
+    "errorGeneric": "Sorry, something went wrong. Please try again or reach us on WhatsApp.",
+    "errorMinChars": "Please describe in at least 20 characters.",
+    "errorEmail": "Invalid email format.",
+    "errorRequired": "This field is required."
+  },
+  "pages": {
+    "products": {
+      "title": "All Products",
+      "subtitle": "Three products today. More on the way.",
+      "explore": "Explore"
+    },
+    "about": {
+      "title": "About Syntegra",
+      "intro": "We're a team of AI engineers and business operators who believe the best technology shouldn't belong to a handful of big corporations — but to anyone brave enough to build in Indonesia."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Leave us a short message and our team will reach out via WhatsApp within 24 hours."
+    },
+    "insights": {
+      "title": "Insights",
+      "subtitle": "Our thinking on AI, SMEs, and the future of Indonesian tech."
+    }
+  }
+}

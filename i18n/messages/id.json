@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "products": "Produk",
+    "about": "Tentang",
+    "insights": "Insights",
+    "contact": "Kontak",
+    "cta": "Hubungi Kami"
+  },
+  "hero": {
+    "headlineStart": "AI yang Membangun ",
+    "headlineHighlight": "Bisnis Anda",
+    "headlineEnd": ".",
+    "sub": "Syntegra membantu UMKM dan entrepreneur Indonesia bertumbuh dengan tools AI praktis, terjangkau, dan siap pakai — dibangun di Jakarta untuk pasar lokal.",
+    "ctaPrimary": "Lihat Produk",
+    "ctaSecondary": "Konsultasi Gratis"
+  },
+  "trustStrip": {
+    "tagline": "Dibangun untuk UMKM Indonesia · Powered by Claude AI · Made in Jakarta 🇮🇩",
+    "stat1": "3+ produk aktif",
+    "stat2": "Built on Anthropic Claude",
+    "stat3": "100% siap pakai"
+  },
+  "products": {
+    "kicker": "Produk Unggulan",
+    "title": "Tiga Produk. Satu Misi.",
+    "subtitle": "Tools yang sudah dipakai dan siap membantu bisnis Anda hari ini.",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "visit": "Kunjungi Produk",
+    "socialBuilder": {
+      "name": "Syntegra Social Media Builder",
+      "tagline": "Konten sosmed yang konsisten, tanpa pusing.",
+      "desc": "Buat landing page produk dan konten media sosial yang menjual — dipandu AI, siap publikasi dalam hitungan menit. Cocok untuk UMKM yang ingin tampil profesional di Instagram, TikTok, dan Shopee."
+    },
+    "pos": {
+      "name": "Syntegra POS",
+      "tagline": "Kasir pintar untuk toko, kafe, dan restoran.",
+      "desc": "Sistem Point of Sale modern dengan manajemen stok, laporan penjualan real-time, dan analitik AI. Bekerja di HP, tablet, atau laptop — tanpa perlu hardware mahal."
+    },
+    "synthia": {
+      "name": "Synthia AI Assistant",
+      "tagline": "Asisten AI yang mengerti bisnis Anda.",
+      "desc": "Sekretaris virtual berbasis AI yang membantu menjadwal, mengingatkan, membalas pesan, dan mengelola operasional harian — 24/7, dalam Bahasa Indonesia."
+    }
+  },
+  "whoWeAre": {
+    "kicker": "Tentang Kami",
+    "title": "AI untuk yang lain — bukan cuma korporasi besar.",
+    "body": "Syntegra lahir dari satu keyakinan: teknologi AI seharusnya bisa dipakai oleh siapa saja yang menjalankan bisnis di Indonesia — pemilik warung, pengusaha kafe, agen properti, konsultan pendidikan, brand owner kecil. Kami bangun tools yang praktis, harga terjangkau, dan langsung berdampak. Tanpa jargon. Tanpa subscription mahal yang tidak kepakai."
+  },
+  "whatWeSolve": {
+    "title": "Apa yang Kami Pecahkan",
+    "items": [
+      { "pain": "Konten sosmed tidak konsisten, capek bikin tiap hari", "solution": "Syntegra Social Media Builder otomatiskan ide dan desain konten" },
+      { "pain": "Pencatatan transaksi masih manual, sering hilang data", "solution": "Syntegra POS rekam semua transaksi otomatis, laporan instan" },
+      { "pain": "Tidak punya admin untuk balas chat dan atur jadwal", "solution": "Synthia jadi asisten AI 24/7 yang tidak pernah cuti" },
+      { "pain": "Sudah coba tools luar negeri tapi mahal & tidak cocok lokal", "solution": "Semua produk Syntegra dibangun untuk konteks pasar Indonesia" }
+    ]
+  },
+  "howWeWork": {
+    "title": "Cara Kami Bekerja",
+    "steps": [
+      { "title": "Pahami Bisnis Anda", "desc": "Kami dengarkan masalah Anda sebelum bicara solusi." },
+      { "title": "Bangun Solusi", "desc": "Tim engineering kami rakit tools yang pas untuk konteks Anda." },
+      { "title": "Deploy Cepat", "desc": "Live dalam hitungan minggu, bukan kuartal." },
+      { "title": "Iterasi Bersama", "desc": "Kami terus tweak setelah pengguna nyata mulai pakai." }
+    ]
+  },
+  "futurePipeline": {
+    "title": "Yang Sedang Kami Bangun",
+    "subtitle": "Produk-produk berikutnya yang akan segera hadir.",
+    "soon": "Coming Soon"
+  },
+  "insightsPreview": {
+    "title": "Insights",
+    "subtitle": "Pemikiran kami tentang AI, UMKM, dan masa depan teknologi Indonesia.",
+    "readMore": "Baca",
+    "viewAll": "Lihat Semua Insights"
+  },
+  "contactCta": {
+    "title": "Siap bawa AI ke bisnis Anda?",
+    "sub": "Mari ngobrol. Konsultasi awal gratis."
+  },
+  "footer": {
+    "tagline": "AI yang Membangun Bisnis Anda.",
+    "products": "Produk",
+    "company": "Perusahaan",
+    "legal": "Legal",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat & Ketentuan",
+    "rights": "© 2026 Syntegra. Dibangun dengan ❤️ di Jakarta."
+  },
+  "whatsapp": {
+    "tooltip": "Chat di WhatsApp"
+  },
+  "form": {
+    "name": "Nama",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "business": "Nama Bisnis",
+    "industry": "Industri",
+    "industryPlaceholder": "Pilih industri",
+    "industries": {
+      "retail": "Retail",
+      "fnb": "F&B",
+      "education": "Pendidikan",
+      "services": "Jasa",
+      "ecommerce": "E-commerce",
+      "other": "Lainnya"
+    },
+    "challenge": "Tantangan terbesar bisnis Anda saat ini",
+    "challengePlaceholder": "Ceritakan situasi Anda sekarang (minimal 20 karakter)…",
+    "products": "Produk yang menarik perhatian",
+    "productOptions": {
+      "social": "Syntegra Social Media Builder",
+      "pos": "Syntegra POS",
+      "synthia": "Synthia AI Assistant",
+      "unsure": "Belum yakin"
+    },
+    "submit": "Kirim",
+    "submitting": "Mengirim…",
+    "successTitle": "Terima kasih, {name}!",
+    "successBody": "Berdasarkan kebutuhan Anda, kami rasa <strong>{product}</strong> paling cocok. Tim kami akan menghubungi via WhatsApp dalam 1×24 jam.",
+    "errorGeneric": "Maaf, terjadi kesalahan. Silakan coba lagi atau hubungi kami via WhatsApp.",
+    "errorMinChars": "Tolong jelaskan minimal 20 karakter.",
+    "errorEmail": "Format email tidak valid.",
+    "errorRequired": "Field ini wajib diisi."
+  },
+  "pages": {
+    "products": {
+      "title": "Semua Produk",
+      "subtitle": "Tiga produk hari ini. Lebih banyak akan datang.",
+      "explore": "Eksplorasi"
+    },
+    "about": {
+      "title": "Tentang Syntegra",
+      "intro": "Kami adalah tim AI engineer dan operator bisnis yang yakin teknologi terbaik bukan untuk segelintir korporasi besar — tapi untuk siapa saja yang berani membangun di Indonesia."
+    },
+    "contact": {
+      "title": "Hubungi Kami",
+      "subtitle": "Tinggalkan pesan singkat dan tim kami akan menghubungi via WhatsApp dalam 1×24 jam."
+    },
+    "insights": {
+      "title": "Insights",
+      "subtitle": "Pemikiran kami tentang AI, UMKM, dan masa depan teknologi Indonesia."
+    }
+  }
+}
