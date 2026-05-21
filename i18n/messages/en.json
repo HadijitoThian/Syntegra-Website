@@ -17,7 +17,7 @@
   },
   "trustStrip": {
     "tagline": "Built for Indonesian SMEs · AI Solutions · Made for Indonesian Businesses 🇮🇩",
-    "stat1": "3+ live products",
+    "stat1": "4+ live products",
     "stat2": "Built in Indonesia",
     "stat3": "100% ready to use"
   },
@@ -41,6 +41,11 @@
       "name": "Synthia AI Assistant",
       "tagline": "An AI assistant that understands your business.",
       "desc": "AI-powered virtual secretary that schedules, reminds, replies to messages, and handles daily operations — 24/7, in Bahasa Indonesia."
+    },
+    "halo": {
+      "name": "Halo Syntia",
+      "tagline": "The WhatsApp sales assistant that never sleeps.",
+      "desc": "Stop losing customers because their chat got answered the next morning. Halo Syntia replies in <2 seconds, qualifies leads, and hands off to your team when they're ready to close — 24/7 in Bahasa Indonesia."
     }
   },
   "whoWeAre": {

@@ -31,7 +31,7 @@ export default function TrustStrip() {
           </div>
           <div>
             <div className="font-display text-3xl lg:text-4xl font-bold text-brand-gradient">
-              <AnimatedCounter end={3} />
+              <AnimatedCounter end={4} />
             </div>
             <div className="text-xs text-slate-500 mt-1">Live products</div>
           </div>

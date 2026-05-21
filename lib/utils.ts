@@ -9,4 +9,5 @@ export const PRODUCT_LINKS = {
   social: "https://syntegra-landing-builder-production.up.railway.app/",
   pos: "https://repsyntegrapos-production.up.railway.app/",
   synthia: "https://www.syntia.syntegra.co.id/",
+  halo: "https://halo.syntegra.co.id/",
 } as const;

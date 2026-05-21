@@ -2,6 +2,7 @@
 
 const PARTNERS = [
   "Google Cloud",
+  "Halo Syntia",
   "Midtrans",
   "Railway",
   "Postgres",

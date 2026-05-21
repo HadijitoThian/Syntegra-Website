@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/produk/social-media-builder",
     "/produk/pos",
     "/produk/synthia",
+    "/produk/halo",
     "/tentang",
     "/insights",
     "/kontak",

@@ -8,7 +8,7 @@ import { PRODUCT_LINKS } from "@/lib/utils";
 import { IMAGES } from "@/lib/images";
 import TiltCard from "@/components/TiltCard";
 
-type ProductKey = "socialBuilder" | "pos" | "synthia";
+type ProductKey = "socialBuilder" | "pos" | "synthia" | "halo";
 
 const PRODUCTS: {
   key: ProductKey;
@@ -19,6 +19,7 @@ const PRODUCTS: {
   { key: "socialBuilder", accent: "#2563eb", href: "social", image: IMAGES.productSocial },
   { key: "pos", accent: "#0d9488", href: "pos", image: IMAGES.productPos },
   { key: "synthia", accent: "#0f172a", href: "synthia", image: IMAGES.productSynthia },
+  { key: "halo", accent: "#25D366", href: "halo", image: IMAGES.productHalo },
 ];
 
 export default function ProductsShowcase() {
@@ -37,7 +38,7 @@ export default function ProductsShowcase() {
           <p className="mt-4 text-lg text-slate-600">{t("subtitle")}</p>
         </div>
 
-        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-8 md:grid-cols-2">
           {PRODUCTS.map((p, i) => (
             <motion.a
               key={p.key}

@@ -6,6 +6,7 @@ export const IMAGES = {
   productSocial: "/generated/product-social.jpg",
   productPos: "/generated/product-pos.jpg",
   productSynthia: "/generated/product-synthia.jpg",
+  productHalo: "/generated/product-halo.jpg",
   blogAi: "/generated/blog-cover.jpg",
   // "What We Solve" vignettes (in display order — index 0..3)
   painContent: "/generated/pain-content.jpg",

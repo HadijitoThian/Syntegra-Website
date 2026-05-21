@@ -92,6 +92,12 @@ const IMAGES = [
     height: 768,
     prompt: `A confused Indonesian entrepreneur staring at his laptop showing several complex English software dashboards, rubbing his forehead, sticky notes and a calculator on the desk, soft natural daylight in a modest home office, candid documentary photography, ${STYLE}`,
   },
+  {
+    name: "product-halo",
+    width: 1216,
+    height: 832,
+    prompt: `Close-up photorealistic shot of a smartphone held in a person's hand, screen displaying a WhatsApp Business chat in Bahasa Indonesia between a customer and an AI sales assistant, multiple chat bubbles visible with green WhatsApp accent, evening Jakarta cafe bokeh background with warm lights, premium phone mockup feel, ${STYLE}`,
+  },
 ];
 
 async function generate(spec) {
