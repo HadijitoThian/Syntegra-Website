@@ -1,14 +1,14 @@
 "use client";
 
 const PARTNERS = [
-  "Anthropic Claude",
   "Google Cloud",
-  "OpenAI",
   "Midtrans",
-  "Vercel",
   "Railway",
-  "Stripe",
   "Postgres",
+  "WhatsApp Business",
+  "Shopee",
+  "Tokopedia",
+  "GoPay",
 ];
 
 export default function Marquee() {

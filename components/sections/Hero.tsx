@@ -37,7 +37,7 @@ export default function Hero() {
             className="inline-flex items-center gap-2 mb-6 bg-white/80 backdrop-blur-sm border border-slate-200 rounded-full px-4 py-1.5 shadow-sm"
           >
             <Sparkles size={14} className="text-brand-royal" />
-            <span className="text-xs font-semibold text-slate-700">Powered by Claude AI · Built in Jakarta</span>
+            <span className="text-xs font-semibold text-slate-700">AI Solutions · Made in Jakarta</span>
           </motion.div>
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
@@ -105,8 +105,8 @@ export default function Hero() {
               <Sparkles className="text-white" size={18} />
             </div>
             <div>
-              <div className="text-xs text-slate-500">Powered by</div>
-              <div className="text-sm font-bold text-brand-ink">Claude AI</div>
+              <div className="text-xs text-slate-500">Built with</div>
+              <div className="text-sm font-bold text-brand-ink">AI Solutions</div>
             </div>
           </motion.div>
           <motion.div
