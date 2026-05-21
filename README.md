@@ -6,7 +6,7 @@ Live products linked from this site:
 
 - Syntegra Social Media Builder — https://syntegra-landing-builder-production.up.railway.app/
 - Syntegra POS — https://repsyntegrapos-production.up.railway.app/
-- Synthia AI Assistant — https://aisecretary-production.up.railway.app/
+- Synthia AI Assistant — https://www.syntia.syntegra.co.id/
 
 ## Stack
 

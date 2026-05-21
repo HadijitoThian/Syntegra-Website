@@ -8,5 +8,5 @@ export function cn(...inputs: ClassValue[]) {
 export const PRODUCT_LINKS = {
   social: "https://syntegra-landing-builder-production.up.railway.app/",
   pos: "https://repsyntegrapos-production.up.railway.app/",
-  synthia: "https://aisecretary-production.up.railway.app/",
+  synthia: "https://www.syntia.syntegra.co.id/",
 } as const;
