@@ -5,7 +5,7 @@ export const IMAGES = {
   whoWeAre: "/generated/who-we-are.jpg",
   productSocial: "/generated/product-social.jpg",
   productPos: "/generated/product-pos.jpg",
-  productSynthia: "/generated/product-synthia.jpg",
+  productSyntia: "/generated/product-syntia.jpg",
   productHalo: "/generated/product-halo.jpg",
   blogAi: "/generated/blog-cover.jpg",
   // "What We Solve" vignettes (in display order — index 0..3)

@@ -37,8 +37,8 @@
       "tagline": "Kasir pintar untuk toko, kafe, dan restoran.",
       "desc": "Sistem Point of Sale modern dengan manajemen stok, laporan penjualan real-time, dan analitik AI. Bekerja di HP, tablet, atau laptop — tanpa perlu hardware mahal."
     },
-    "synthia": {
-      "name": "Synthia AI Assistant",
+    "syntia": {
+      "name": "Syntia AI Assistant",
       "tagline": "Asisten AI yang mengerti bisnis Anda.",
       "desc": "Sekretaris virtual berbasis AI yang membantu menjadwal, mengingatkan, membalas pesan, dan mengelola operasional harian — 24/7, dalam Bahasa Indonesia."
     },
@@ -58,7 +58,7 @@
     "items": [
       { "pain": "Konten sosmed tidak konsisten, capek bikin tiap hari", "solution": "Syntegra Social Media Builder otomatiskan ide dan desain konten" },
       { "pain": "Pencatatan transaksi masih manual, sering hilang data", "solution": "Syntegra POS rekam semua transaksi otomatis, laporan instan" },
-      { "pain": "Tidak punya admin untuk balas chat dan atur jadwal", "solution": "Synthia jadi asisten AI 24/7 yang tidak pernah cuti" },
+      { "pain": "Tidak punya admin untuk balas chat dan atur jadwal", "solution": "Syntia jadi asisten AI 24/7 yang tidak pernah cuti" },
       { "pain": "Sudah coba tools luar negeri tapi mahal & tidak cocok lokal", "solution": "Semua produk Syntegra dibangun untuk konteks pasar Indonesia" }
     ]
   },
@@ -119,7 +119,7 @@
     "productOptions": {
       "social": "Syntegra Social Media Builder",
       "pos": "Syntegra POS",
-      "synthia": "Synthia AI Assistant",
+      "syntia": "Syntia AI Assistant",
       "unsure": "Belum yakin"
     },
     "submit": "Kirim",

@@ -18,7 +18,7 @@ const SYSTEM_PROMPT = `You are a lead qualification assistant for Syntegra, an A
 {
   "summary": "<one-sentence summary of their need in English>",
   "fit_score": <1-10, how well Syntegra's existing products fit their need>,
-  "recommended_product": "social-media-builder" | "pos" | "synthia" | "custom",
+  "recommended_product": "social-media-builder" | "pos" | "syntia" | "custom",
   "urgency": "low" | "medium" | "high",
   "next_step_id": "<one-sentence suggested next step in Bahasa Indonesia, addressed to the prospect>"
 }

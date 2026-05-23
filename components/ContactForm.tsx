@@ -18,7 +18,7 @@ const schema = z.object({
 type Qualification = {
   summary: string;
   fit_score: number;
-  recommended_product: "social-media-builder" | "pos" | "synthia" | "custom";
+  recommended_product: "social-media-builder" | "pos" | "syntia" | "custom";
   urgency: "low" | "medium" | "high";
   next_step_id: string;
 };
@@ -26,14 +26,14 @@ type Qualification = {
 const PRODUCT_LABEL: Record<Qualification["recommended_product"], string> = {
   "social-media-builder": "Syntegra Social Media Builder",
   pos: "Syntegra POS",
-  synthia: "Synthia AI Assistant",
+  syntia: "Syntia AI Assistant",
   custom: "custom solution",
 };
 
 const PRODUCT_OPTIONS = [
   { id: "social-media-builder", labelKey: "social" },
   { id: "pos", labelKey: "pos" },
-  { id: "synthia", labelKey: "synthia" },
+  { id: "syntia", labelKey: "syntia" },
   { id: "unsure", labelKey: "unsure" },
 ] as const;
 

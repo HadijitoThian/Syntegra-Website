@@ -35,8 +35,8 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <a href={PRODUCT_LINKS.synthia} target="_blank" rel="noopener" className="hover:text-brand-royal">
-                {tProducts("synthia.name")}
+              <a href={PRODUCT_LINKS.syntia} target="_blank" rel="noopener" className="hover:text-brand-royal">
+                {tProducts("syntia.name")}
               </a>
             </li>
           </ul>

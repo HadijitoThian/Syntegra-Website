@@ -56,7 +56,7 @@ const IMAGES = [
     prompt: `A modern tablet point-of-sale system on a clean light-wood counter at an Indonesian specialty coffee shop, screen displaying a colorful sales dashboard with charts and Bahasa Indonesia menu items, friendly barista barely visible in background, warm afternoon light, ${STYLE}`,
   },
   {
-    name: "product-synthia",
+    name: "product-syntia",
     width: 1216,
     height: 832,
     prompt: `Close-up shot of a smartphone held by a hand, screen showing a polished chat conversation with an AI voice assistant in Bahasa Indonesia, microphone icon glowing, blurred warm Jakarta cafe background with bokeh lights, golden hour light, ${STYLE}`,

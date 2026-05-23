@@ -9,7 +9,7 @@ export default function Page() {
   const tp = useTranslations("pages.products");
 
   const features = [
-    { title: "Voice-First (segera)", desc: "Push-to-talk PWA hari ini, wake word \"Hey Synthia\" segera hadir." },
+    { title: "Voice-First (segera)", desc: "Push-to-talk PWA hari ini, wake word \"Hey Syntia\" segera hadir." },
     { title: "Email Pintar", desc: "Baca, draft, dan kirim email langsung dari percakapan." },
     { title: "Calendar Sync", desc: "Cek jadwal dan buat acara di Google Calendar." },
     { title: "Reminder Engine", desc: "Pengingat persisten dengan natural language." },
@@ -20,12 +20,12 @@ export default function Page() {
   return (
     <>
       <ProductDetail
-        name={t("synthia.name")}
-        tagline={t("synthia.tagline")}
-        description={t("synthia.desc")}
+        name={t("syntia.name")}
+        tagline={t("syntia.tagline")}
+        description={t("syntia.desc")}
         accent="#0f172a"
-        externalUrl={PRODUCT_LINKS.synthia}
-        image={IMAGES.productSynthia}
+        externalUrl={PRODUCT_LINKS.syntia}
+        image={IMAGES.productSyntia}
         features={features}
         ctaLabel={t("visit")}
         backLabel={tp("title")}

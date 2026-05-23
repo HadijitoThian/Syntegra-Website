@@ -37,8 +37,8 @@
       "tagline": "Smart POS for shops, cafes, and restaurants.",
       "desc": "Modern Point of Sale system with stock management, real-time sales reporting, and AI analytics. Works on phone, tablet, or laptop — no expensive hardware required."
     },
-    "synthia": {
-      "name": "Synthia AI Assistant",
+    "syntia": {
+      "name": "Syntia AI Assistant",
       "tagline": "An AI assistant that understands your business.",
       "desc": "AI-powered virtual secretary that schedules, reminds, replies to messages, and handles daily operations — 24/7, in Bahasa Indonesia."
     },
@@ -58,7 +58,7 @@
     "items": [
       { "pain": "Social content is inconsistent — exhausting to make daily", "solution": "Syntegra Social Media Builder automates ideas and design" },
       { "pain": "Transactions still recorded manually, data gets lost", "solution": "Syntegra POS records everything automatically with instant reports" },
-      { "pain": "No staff to reply to chats or manage schedules", "solution": "Synthia becomes your 24/7 AI assistant — never on leave" },
+      { "pain": "No staff to reply to chats or manage schedules", "solution": "Syntia becomes your 24/7 AI assistant — never on leave" },
       { "pain": "Tried overseas tools but they're expensive and don't fit locally", "solution": "Every Syntegra product is built for the Indonesian market" }
     ]
   },
@@ -119,7 +119,7 @@
     "productOptions": {
       "social": "Syntegra Social Media Builder",
       "pos": "Syntegra POS",
-      "synthia": "Synthia AI Assistant",
+      "syntia": "Syntia AI Assistant",
       "unsure": "Not sure yet"
     },
     "submit": "Submit",

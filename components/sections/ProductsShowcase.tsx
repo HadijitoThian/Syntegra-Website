@@ -8,7 +8,7 @@ import { PRODUCT_LINKS } from "@/lib/utils";
 import { IMAGES } from "@/lib/images";
 import TiltCard from "@/components/TiltCard";
 
-type ProductKey = "socialBuilder" | "pos" | "synthia" | "halo";
+type ProductKey = "socialBuilder" | "pos" | "syntia" | "halo";
 
 const PRODUCTS: {
   key: ProductKey;
@@ -18,7 +18,7 @@ const PRODUCTS: {
 }[] = [
   { key: "socialBuilder", accent: "#2563eb", href: "social", image: IMAGES.productSocial },
   { key: "pos", accent: "#0d9488", href: "pos", image: IMAGES.productPos },
-  { key: "synthia", accent: "#0f172a", href: "synthia", image: IMAGES.productSynthia },
+  { key: "syntia", accent: "#0f172a", href: "syntia", image: IMAGES.productSyntia },
   { key: "halo", accent: "#25D366", href: "halo", image: IMAGES.productHalo },
 ];
 

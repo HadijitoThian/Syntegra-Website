@@ -24,7 +24,7 @@ const config: Config = {
         product: {
           social: "#2563eb",
           pos: "#0d9488",
-          synthia: "#0f172a",
+          syntia: "#0f172a",
         },
       },
       boxShadow: {

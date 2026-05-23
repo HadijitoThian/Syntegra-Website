@@ -6,7 +6,7 @@ Live products linked from this site:
 
 - Syntegra Social Media Builder — https://syntegra-landing-builder-production.up.railway.app/
 - Syntegra POS — https://repsyntegrapos-production.up.railway.app/
-- Synthia AI Assistant — https://www.syntia.syntegra.co.id/
+- Syntia AI Assistant — https://www.syntia.syntegra.co.id/
 
 ## Stack
 
@@ -89,7 +89,7 @@ lib/                 # anthropic.ts, mdx.ts, utils.ts
 | Blog posts | drop a new `.mdx` file under `content/insights/{id|en}/` |
 | "Future Products" placeholders | `components/sections/FuturePipeline.tsx` |
 | Logo | replace `/public/logo.svg` (currently a text gradient placeholder) |
-| Product mockups | drop PNGs at `public/products/{social-media-builder,pos,synthia}.png` |
+| Product mockups | drop PNGs at `public/products/{social-media-builder,pos,syntia}.png` |
 
 ## Notes
 
