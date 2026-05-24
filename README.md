@@ -5,7 +5,7 @@ The marketing site for **Syntegra** — an AI Solutions company building practic
 Live products linked from this site:
 
 - Syntegra Social Media Builder — https://syntegra-landing-builder-production.up.railway.app/
-- Syntegra POS — https://repsyntegrapos-production.up.railway.app/
+- Syntegra POS — https://www.pos.syntegra.co.id/
 - Syntia AI Assistant — https://www.syntia.syntegra.co.id/
 
 ## Stack
