@@ -15,12 +15,12 @@ export default function Hero() {
     <section className="relative overflow-hidden pt-32 pb-20 lg:pt-40 lg:pb-32">
       <div
         aria-hidden
-        className="absolute inset-0 -z-20 bg-gradient-to-br from-sky-50 via-white to-white"
+        className="absolute inset-0 -z-20 bg-gradient-to-br from-brand-navy via-brand-royal to-brand-navy"
       />
       <GridBackground />
       <div
         aria-hidden
-        className="absolute -top-32 -right-32 w-[600px] h-[600px] rounded-full bg-brand-sky/10 blur-3xl -z-10"
+        className="absolute -top-32 -right-32 w-[600px] h-[600px] rounded-full bg-brand-sky/20 blur-3xl -z-10"
       />
       <motion.div
         aria-hidden
@@ -34,26 +34,26 @@ export default function Hero() {
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
-            className="inline-flex items-center gap-2 mb-6 bg-white/80 backdrop-blur-sm border border-slate-200 rounded-full px-4 py-1.5 shadow-sm"
+            className="inline-flex items-center gap-2 mb-6 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-1.5 shadow-sm"
           >
-            <Sparkles size={14} className="text-brand-royal" />
-            <span className="text-xs font-semibold text-slate-700">AI Solutions · Made for Indonesian Businesses</span>
+            <Sparkles size={14} className="text-brand-amber" />
+            <span className="text-xs font-semibold text-white/90">AI Solutions · Made for Indonesian Businesses</span>
           </motion.div>
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
-            className="font-display text-5xl lg:text-6xl xl:text-7xl font-bold leading-[1.05] tracking-tight"
+            className="font-display text-5xl lg:text-6xl xl:text-7xl font-bold leading-[1.05] tracking-tight text-white"
           >
             {t("headlineStart")}
-            <span className="text-brand-gradient">{t("headlineHighlight")}</span>
+            <span className="bg-gradient-to-r from-brand-sky to-brand-amber bg-clip-text text-transparent">{t("headlineHighlight")}</span>
             {t("headlineEnd")}
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.1 }}
-            className="mt-6 text-lg text-slate-600 max-w-xl"
+            className="mt-6 text-lg text-blue-100 max-w-xl"
           >
             {t("sub")}
           </motion.p>
@@ -65,13 +65,13 @@ export default function Hero() {
           >
             <Link
               href="/produk"
-              className="bg-brand-gradient text-white font-semibold px-6 py-3.5 rounded-xl shadow-soft hover:opacity-95 transition flex items-center gap-2"
+              className="bg-white text-brand-navy font-semibold px-6 py-3.5 rounded-xl shadow-soft hover:opacity-95 transition flex items-center gap-2"
             >
               {t("ctaPrimary")} <ArrowRight size={18} />
             </Link>
             <Link
               href="/kontak"
-              className="bg-white text-brand-ink font-semibold px-6 py-3.5 rounded-xl border border-slate-200 hover:border-slate-300 transition"
+              className="bg-white/10 text-white font-semibold px-6 py-3.5 rounded-xl border border-white/30 hover:bg-white/20 transition"
             >
               {t("ctaSecondary")}
             </Link>
